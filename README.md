@@ -11,11 +11,11 @@ $ bundle add pvb-rubocop --group=development
 
 ## Usage
 
-Add the following to the `.rubocop.yml` file:
+Add the following to the `rubocop.yml` file:
 
 ```yaml
 inherit_gem:
-  pvb-rubocop: .rubocop.yml
+  pvb-rubocop: rubocop.yml
 ```
 
 For more details see rubocop documentation on
