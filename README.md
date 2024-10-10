@@ -7,6 +7,10 @@ utility.
 
 ```console
 $ bundle add pvb-rubocop --group=development
+$ bundle add rubocop --group=development
+$ bundle add rubocop-factory_bot --group=development
+$ bundle add rubocop-performance --group=development
+$ bundle add rubocop-rspec --group=development
 ```
 
 ## Usage
