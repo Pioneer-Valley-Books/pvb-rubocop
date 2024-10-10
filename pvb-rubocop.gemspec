@@ -9,9 +9,4 @@ Gem::Specification.new do |spec|
   spec.files = ['rubocop.yml']
   spec.homepage = 'https://github.com/Pioneer-Valley-Books/pvb-rubocop'
   spec.metadata = { 'rubygems_mfa_required' => 'true' }
-
-  spec.add_dependency 'rubocop'
-  spec.add_dependency 'rubocop-factory_bot'
-  spec.add_dependency 'rubocop-performance'
-  spec.add_dependency 'rubocop-rspec'
 end
