@@ -78,6 +78,9 @@ RSpec/NamedSubject:
 RSpec/NestedGroups:
   Enabled: false
 
+Style/ClassMethodsDefinitions:
+  Enabled: true
+
 Style/Documentation:
   Enabled: false
 
