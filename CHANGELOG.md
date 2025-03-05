@@ -1,3 +1,7 @@
+## 2.2.0 (2025-03-04)
+
+Migrate rubocop-performance and rubocop-rspec to use RuboCop plugin feature.
+
 ## 2.1.0 (2025-01-14)
 
 Enable `Style/RequireOrder` cop.
