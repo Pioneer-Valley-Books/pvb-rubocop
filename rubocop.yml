@@ -1,9 +1,7 @@
 plugins:
+  - rubocop-factory_bot
   - rubocop-performance
   - rubocop-rspec
-
-require:
-  - rubocop-factory_bot
 
 AllCops:
   NewCops: enable
