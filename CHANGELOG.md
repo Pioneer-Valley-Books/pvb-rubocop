@@ -1,3 +1,7 @@
+## 2.3.0 (2025-03-27)
+
+Migrate rubocop-performance and rubocop-rspec to use RuboCop plugin feature.
+
 ## 2.2.0 (2025-03-04)
 
 Migrate rubocop-performance and rubocop-rspec to use RuboCop plugin feature.
