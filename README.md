@@ -11,7 +11,7 @@ $ bundle add rubocop --group=development
 $ bundle add rubocop-performance --group=development
 ```
 
-For Rspec projects:
+For RSpec projects:
 
 ```console
 $ bundle add rubocop-rspec --group=development
@@ -32,7 +32,7 @@ inherit_gem:
   pvb-rubocop: default.yml
 ```
 
-For Rspec projects:
+For RSpec projects:
 
 ```yaml
 inherit_gem:
