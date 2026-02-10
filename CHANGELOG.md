@@ -1,4 +1,4 @@
-## 3.1.0 (2026-01-28)
+## 3.1.0 (2026-02-10)
 
 Make an intermediate file for rspec projects. There are now 3 different project
 types:
