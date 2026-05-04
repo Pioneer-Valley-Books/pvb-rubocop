@@ -1,3 +1,7 @@
+## 3.2.0 (2026-05-04)
+
+Set `Layout/BlockAlignment` to `EnforcedStyleAlignWith: start_of_block`.
+
 ## 3.1.0 (2026-02-10)
 
 Make an intermediate file for RSpec projects. There are now 3 different project
