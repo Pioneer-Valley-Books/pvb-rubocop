@@ -1,7 +1,13 @@
 plugins:
   - rubocop-performance
 
+inherit_mode:
+  merge:
+    - Exclude
+
 AllCops:
+  Exclude:
+    - db/migrate/*_squashed_migrations.rb
   NewCops: enable
 
 Layout/ArgumentAlignment:
